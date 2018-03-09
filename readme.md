@@ -1,3 +1,5 @@
+# TADY BUDE POSTUP NASAZENÍ MOJÍ APLIKACE
+
 # Sociální síť
 domácí úkol z předmětu **vývoj webových aplikací**
 ## Odevzdání
